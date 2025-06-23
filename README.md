@@ -20,4 +20,4 @@ To use the application, run the main.py file with the streamlit CLI (after havin
 streamlit run app.py
 
 Contributing
-This repository is for educational purposes only and is not intended to receive further contributions. It is supposed to be used as support material for the YouTube tutorial that shows how to build the project.
+This repository is for educational purposes only and is not intended to receive further contributions. 
